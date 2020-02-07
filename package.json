@@ -1,0 +1,12 @@
+{
+    "name": "remove-sql-whitespace",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Amir mohammad Naderi",
+    "license": "None",
+    "repository": {
+        "url": "https://github.com/amiiir/remove-sql-whitespace.git"
+    }
+}
